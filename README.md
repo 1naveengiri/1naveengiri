@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # <img src="https://github.com/laranz/laranz/blob/main/hi.gif" width="35px" /> I'm Naveen Giri.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=WordPress+Q/A+Developer;Nice+to+meet+you...)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=WordPress+Developer;Nice+to+meet+you...)](#)
 
 * 🌱 I’m currently learning ReactJs 
 
