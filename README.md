@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/24760592/181431401-380adc8c-716c-4127-9692-b63e62ff3078.jpg)
 
 # <img src="https://github.com/laranz/laranz/blob/main/hi.gif" width="35px" /> I'm Naveen Giri.
 
