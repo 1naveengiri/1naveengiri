@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=WordPress+Developer;Nice+to+meet+you...)](#)
 
-* 🌱 I’m currently learning ReactJs 
+* 🌱 I’m currently working on the best version of myself. 
 
 ## Where to find me :thinking:
 
